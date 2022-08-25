@@ -1,0 +1,154 @@
+[Jul 4 11:40:53] 
+[Jul 4 11:40:53] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.7==
+[Jul 4 11:40:53] ----------------------------------------------------
+[Jul 4 11:40:53] Installer bootstrap start
+[Jul 4 11:40:53] Ready to extract the installer
+[Jul 4 11:40:53] Checking permission of destination folder
+[Jul 4 11:40:53] ZipArchive exists so using that
+[Jul 4 11:40:53] Successfully opened archive file.
+[Jul 4 11:40:53] Extracting all files from archive within dup-installer
+[Jul 4 11:40:53] Success: dup-installer/dup-database__[HASH].sql >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/dup-scan__[HASH].json >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.init1.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s2.dbtest.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s1.base.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s3.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s2.cpnl.lite.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.help.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s2.base.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.security.error.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s1.terms.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.exception.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s4.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/views/view.s2.basic.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.installer.state.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.view.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.wpengine.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.pantheon.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.godaddy.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.flywheel.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.wordpresscom.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/interface.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.liquidweb.host.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/host/class.custom.host.manager.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/class.u.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/utilities/class.u.html.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.server.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.db.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.http.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/Crypt/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/Crypt/Base.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/Crypt/Rijndael.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/Crypt/Random.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.logging.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.engine.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.package.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.csrf.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.crypt.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/class.conf.srv.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/class.archive.config.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/class.constants.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/class.security.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/config/class.boot.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.s3.func.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/classes/class.password.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.s2.base.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.base.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/classes/class.ctrl.extraction.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.s1.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.s3.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/main.installer.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/browserconfig.xml >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/site.webmanifest >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/favicon-32x32.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/mstile-150x150.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/android-chrome-384x384.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/favicon.ico >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/favicon-16x16.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/android-chrome-192x192.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/favicon/apple-touch-icon.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/css/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/css/all.min.css >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/inc.libs.css.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/inc.libs.js >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/inc.js.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/assets/inc.css.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/dup-archive__[HASH].txt >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/index.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.db.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.orig.files.manager.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/snaplib.all.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.jsonSerializable.abstract.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/snaplib/class.snaplib.u.json.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> /home/benoit/projects/wp3
+[Jul 4 11:40:53] Successfully closed archive file
+[Jul 4 11:40:53] Successfully extracted with ZipArchive
+[Jul 4 11:40:53] SAPI: FPM
+[Jul 4 11:40:53] Server: Apache
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/assets<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/classes<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/ctrls<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/favicon<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/lib<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/views<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/dup-archive__[HASH].txt<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/dup-database__[HASH].sql<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/dup-scan__[HASH].json<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/index.php<br/>
+[Jul 4 11:40:53] Set permissions of /home/benoit/projects/wp3/dup-installer/main.installer.php<br/>
+[Jul 4 11:40:53] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://wp3.local/dup-installer/main.installer.php
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Implicit conversion from float 3092.5200000000004 to int loses precision [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1581]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]
+[Jul 4 11:40:53] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:/home/benoit/projects/wp3/20220704_monwordpress2_[HASH]_20220704112547_installer.php|LINE:1652]

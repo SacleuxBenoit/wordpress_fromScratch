@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/var-dumper": "^6.1",
+        "wp-bootstrap/wp-bootstrap-navwalker": "^4.3.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
