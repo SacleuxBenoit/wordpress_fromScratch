@@ -1,0 +1,25 @@
+/* 
+Theme Name: theme_custom_wp
+Theme URI: https://github.com/SacleuxBenoit/wordpress_fromScratch
+Author: Benoît Sacleux
+Author URI: https://github.com/SacleuxBenoit
+Requires at least: 6.0
+Requires PHP: 8.1.7
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+body {
+    background-color: #add7e2;
+}
+
+p {
+    color: #bbc2cc;
+    padding: 6px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #9197a0;
+}
