@@ -1,1 +1,0 @@
-# Wordpress From scratch
